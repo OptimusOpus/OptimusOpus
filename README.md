@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=optimusopus" alt="optimusopus" /></a> </p>
 
-- 🔭 I’m currently working at [Dltx Labs](https://au.linkedin.com/company/dltx)
 
 
 
